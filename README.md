@@ -31,4 +31,4 @@ To set up the project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/prem573/Website)https://github.com/prem573/Website
+   git clone https://github.com/prem573/Website
