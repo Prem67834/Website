@@ -11,7 +11,7 @@ Welcome to the official repository for the [Your College Name] Tech Fest website
 - [License](#license)
 
 ## About
-[Your College Name] Tech Fest is an annual event that celebrates innovation, technology, and creativity. This website serves as the online platform for participants, sponsors, and attendees to access information about the event. It provides details about various competitions, workshops, speakers, and more.
+IIIT RGUKT SKLM Tech Fest is an annual event that celebrates innovation, technology, and creativity. This website serves as the online platform for participants, sponsors, and attendees to access information about the event. It provides details about various competitions, workshops, speakers, and more.
 
 ## Features
 - Event schedule and details
